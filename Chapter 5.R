@@ -21,19 +21,19 @@ library(microbiome)
 #import data 
 
 #set wd 
-setwd("/Users/christinacampbell/Desktop/Thesis /Data/merged")
+setwd("")
 
 #Taxa table
-taxa <- read.csv("/Users/christinacampbell/Desktop/Thesis /Data/merged/tax_covid_sleep.csv", row.names=1)
+taxa <- read.csv("", row.names=1)
 
 
 #OTU Table 
-otu<-read.csv("/Users/christinacampbell/Desktop/Thesis /Data/merged/otu_covid_sleep.csv",
+otu<-read.csv("",
               row.names = 1, header = T, check.names=F)
 
 
 #Load MetaData
-meta<-read.delim2("/Users/christinacampbell/Desktop/Thesis /Data/merged/metadata_git.txt", sep="\t") 
+meta<-read.delim2("", sep="\t") 
 
 #Give Rownames
 rownames(meta)<-meta$SampleID
