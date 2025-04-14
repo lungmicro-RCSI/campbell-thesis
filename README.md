@@ -18,6 +18,6 @@
 
 ## Running the Analysis
 There are XX seperate analysis pipelines:
-* [Nasal Wash Microbiome]()
-* [Oral Wash Microbiome]()
-* []()
+* [Chapter 4]()
+* [Chatper 5]()
+* [Chapter 6]()
