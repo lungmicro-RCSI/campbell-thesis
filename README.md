@@ -17,7 +17,7 @@
 
 
 ## Running the Analysis
-There are XX seperate analysis pipelines:
+There are 3 seperate analysis pipelines:
 * [Chapter 4]()
 * [Chatper 5]()
 * [Chapter 6]()
