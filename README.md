@@ -1,8 +1,6 @@
 # Microbial Signatures in Post COVID OSA
 *Thesis Analysis*
 
-![Analysis Schematic](https://github.com/segalmicrobiomelab/functional_microbiomics/blob/master/Analytical%20schema.001.jpeg)
-
 ## Prerequisites
 * MacOS/Windows/Linux
 * R (version 3.5.1)
